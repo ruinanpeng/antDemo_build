@@ -1,0 +1,1 @@
+export const ROTATE_HANDLE = 'ROTATE_HANDLE'
